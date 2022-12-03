@@ -1,0 +1,15 @@
+C:\Users\oliga\Desktop\HomeWorkC\HomeWork\Parts\Part_002\bin\Debug\net7.0\Part_002.exe
+C:\Users\oliga\Desktop\HomeWorkC\HomeWork\Parts\Part_002\bin\Debug\net7.0\Part_002.deps.json
+C:\Users\oliga\Desktop\HomeWorkC\HomeWork\Parts\Part_002\bin\Debug\net7.0\Part_002.runtimeconfig.json
+C:\Users\oliga\Desktop\HomeWorkC\HomeWork\Parts\Part_002\bin\Debug\net7.0\Part_002.dll
+C:\Users\oliga\Desktop\HomeWorkC\HomeWork\Parts\Part_002\bin\Debug\net7.0\Part_002.pdb
+C:\Users\oliga\Desktop\HomeWorkC\HomeWork\Parts\Part_002\obj\Debug\net7.0\Part_002.csproj.AssemblyReference.cache
+C:\Users\oliga\Desktop\HomeWorkC\HomeWork\Parts\Part_002\obj\Debug\net7.0\Part_002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oliga\Desktop\HomeWorkC\HomeWork\Parts\Part_002\obj\Debug\net7.0\Part_002.AssemblyInfoInputs.cache
+C:\Users\oliga\Desktop\HomeWorkC\HomeWork\Parts\Part_002\obj\Debug\net7.0\Part_002.AssemblyInfo.cs
+C:\Users\oliga\Desktop\HomeWorkC\HomeWork\Parts\Part_002\obj\Debug\net7.0\Part_002.csproj.CoreCompileInputs.cache
+C:\Users\oliga\Desktop\HomeWorkC\HomeWork\Parts\Part_002\obj\Debug\net7.0\Part_002.dll
+C:\Users\oliga\Desktop\HomeWorkC\HomeWork\Parts\Part_002\obj\Debug\net7.0\refint\Part_002.dll
+C:\Users\oliga\Desktop\HomeWorkC\HomeWork\Parts\Part_002\obj\Debug\net7.0\Part_002.pdb
+C:\Users\oliga\Desktop\HomeWorkC\HomeWork\Parts\Part_002\obj\Debug\net7.0\Part_002.genruntimeconfig.cache
+C:\Users\oliga\Desktop\HomeWorkC\HomeWork\Parts\Part_002\obj\Debug\net7.0\ref\Part_002.dll
