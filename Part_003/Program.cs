@@ -2,13 +2,14 @@
 int i = int.Parse (Console.ReadLine());
 if (i % 2 == 0)
 {
-    Console.Write("Четное: ");
-    Console.WriteLine(i);
+    Console.Write(i);
+    Console.WriteLine(" Четное");
 }
 else
 {
-    Console.Write("Нe четное: ");
-    Console.WriteLine(i);
+    Console.Write(i);
+    Console.WriteLine(" Нe четное");
+    
 }
 
 
