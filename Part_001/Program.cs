@@ -13,7 +13,7 @@ if (a>b)
     {
         Console.Write ( "Это число больше: " );
         Console.WriteLine ( b );
-        Console.Write ( "Это число больше: " );
+        Console.Write ( "Это число меньше: " );
         Console.WriteLine ( a );
     }
 
