@@ -1,21 +1,14 @@
-﻿Console.Write("Введите значение ");
-string messege = Console.ReadLine();
-char firstmas = messege[2];
-Console.WriteLine(firstmas);
-Console.WriteLine("нет третьего");
-
-
-
-
-
-//if s = s.Length.ToString (s[2])
-//{
- //   Console.WriteLine(s);
-//}
-//else
-//{
-  //  Console.WriteLine("Третьего символа нет");
-//}
+﻿Console.Write("Введите значение: ");
+int i = int.Parse (Console.ReadLine());
+if (i <= 99)
+{
+    Console.WriteLine("нет третьего символа: ");
+}
+else
+{ 
+string s1 = i.ToString();
+    Console.WriteLine(s1[2]);
+}
 
 
 //Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
