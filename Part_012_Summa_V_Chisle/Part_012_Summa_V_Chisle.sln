@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_012_Summa_V_Chisle", "Part_012_Summa_V_Chisle\Part_012_Summa_V_Chisle.csproj", "{EA4BB2D7-5696-4D6A-A3FD-F64A40D47B34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA4BB2D7-5696-4D6A-A3FD-F64A40D47B34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA4BB2D7-5696-4D6A-A3FD-F64A40D47B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA4BB2D7-5696-4D6A-A3FD-F64A40D47B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA4BB2D7-5696-4D6A-A3FD-F64A40D47B34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7982FF18-0475-417A-850B-AD8D625BC912}
+	EndGlobalSection
+EndGlobal
