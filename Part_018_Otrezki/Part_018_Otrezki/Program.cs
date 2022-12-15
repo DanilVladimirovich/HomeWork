@@ -1,41 +1,43 @@
 ﻿using System.Security.Cryptography.X509Certificates;
-
-float ReadInt()
+float ReadInt(string name)
 {
     Console.WriteLine("Введите число: ");
+    Console.Write($"{name} = ");
  string s = Console.ReadLine();
     if (float.TryParse(s, out float i))
         return i;
     return -1;
 }
-
-Console.Write("k1 = ");
-float k1 = ReadInt();
-Console.Write("d1 = ");
-float b1 = ReadInt();
-Console.Write("k2 = ");
-float k2 = ReadInt();
-Console.Write("d2 = ");
-float b2 = ReadInt();
+string FindPoint(float k1, float k2, float b1, float b2)
+{
     float x = 0;
-    float y = 0; 
+    float y = 0;
+    string result = string.Empty;
     if (k1==k2 && b1==b2)
     {
-        Console.WriteLine("Отрезки совпадают");
+        result = "Отрезки совпадают";
     }
     else if (k1==b1 && k2==b2)
     {
-        Console.WriteLine("Отрезки паралельны");
+        result = "Отрезки паралельны";
     }
     else 
     {
         x = -(b2 - b1) / (k2 - k1);
         y = k1 * x + b1;
-    Console.WriteLine($"Точка пересечения: y = {y} x = {x}");
+    result = $"Точка пересечения: y = {y} x = {x}";
 }
-    
- 
-
+    return result;
+}
+void Task1()
+{
+    float k1 = ReadInt("k1");
+    float b1 = ReadInt("b1");
+    float k2 = ReadInt("k2");
+    float b2 = ReadInt("b2");
+    Console.WriteLine(FindPoint(k1, k2, b1, b2));
+}
+Task1();
 
 
 

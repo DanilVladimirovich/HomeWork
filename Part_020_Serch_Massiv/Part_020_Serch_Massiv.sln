@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_020_Serch_Massiv", "Part_020_Serch_Massiv\Part_020_Serch_Massiv.csproj", "{3A519195-4FC1-4600-AA06-F0714A0DE203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A519195-4FC1-4600-AA06-F0714A0DE203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A519195-4FC1-4600-AA06-F0714A0DE203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A519195-4FC1-4600-AA06-F0714A0DE203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A519195-4FC1-4600-AA06-F0714A0DE203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33AE1149-C74C-4EC0-A70B-EDA0B1C2EA4E}
+	EndGlobalSection
+EndGlobal
