@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_023_Summa_Stroki", "Part_023_Summa_Stroki\Part_023_Summa_Stroki.csproj", "{D602F7D1-60E5-464B-91A2-82EBCBFDAE87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D602F7D1-60E5-464B-91A2-82EBCBFDAE87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D602F7D1-60E5-464B-91A2-82EBCBFDAE87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D602F7D1-60E5-464B-91A2-82EBCBFDAE87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D602F7D1-60E5-464B-91A2-82EBCBFDAE87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {964BA648-91C2-436C-9C7F-8DA980054C5A}
+	EndGlobalSection
+EndGlobal
