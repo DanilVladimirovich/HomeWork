@@ -27,6 +27,7 @@ int ReadInt()
     return -1;
 }
 
+
 void Task68()
 { 
     int AckermannFunction(int numberM, int numberN)
@@ -71,6 +72,7 @@ void Task66()
             {
                   sum = sum + (numberone + 1);
                    numberone++;
+            Console.WriteLine(sum);
             }
         Console.WriteLine($"Сумма = {sum}");
     }
